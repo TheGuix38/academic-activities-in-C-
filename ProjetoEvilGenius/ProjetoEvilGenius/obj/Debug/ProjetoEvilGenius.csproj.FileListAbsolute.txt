@@ -1,0 +1,40 @@
+C:\Users\Etec\Desktop\ProjetoEvilGenius\ProjetoEvilGenius\bin\Debug\ProjetoEvilGenius.exe.config
+C:\Users\Etec\Desktop\ProjetoEvilGenius\ProjetoEvilGenius\bin\Debug\ProjetoEvilGenius.exe
+C:\Users\Etec\Desktop\ProjetoEvilGenius\ProjetoEvilGenius\bin\Debug\ProjetoEvilGenius.pdb
+C:\Users\Etec\Desktop\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.csprojResolveAssemblyReference.cache
+C:\Users\Etec\Desktop\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.frmGenius.resources
+C:\Users\Etec\Desktop\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.Properties.Resources.resources
+C:\Users\Etec\Desktop\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.csproj.GenerateResource.Cache
+C:\Users\Etec\Desktop\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.exe
+C:\Users\Etec\Desktop\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.pdb
+H:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\bin\Debug\ProjetoEvilGenius.exe.config
+H:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.exe
+H:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.pdb
+J:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\bin\Debug\ProjetoEvilGenius.exe.config
+J:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.exe
+J:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.pdb
+H:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\bin\Debug\ProjetoEvilGenius.exe
+H:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\bin\Debug\ProjetoEvilGenius.pdb
+H:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.csprojResolveAssemblyReference.cache
+H:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.frmGenius.resources
+H:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.Properties.Resources.resources
+H:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.csproj.GenerateResource.Cache
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\bin\Debug\ProjetoEvilGenius.exe.config
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\bin\Debug\ProjetoEvilGenius.exe
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\bin\Debug\ProjetoEvilGenius.pdb
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.csprojAssemblyReference.cache
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.frmGenius.resources
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.Properties.Resources.resources
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.csproj.GenerateResource.cache
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.csproj.CoreCompileInputs.cache
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.exe
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.pdb
+I:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\bin\Debug\ProjetoEvilGenius.exe.config
+I:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.exe
+I:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.pdb
+I:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\bin\Debug\ProjetoEvilGenius.exe
+I:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\bin\Debug\ProjetoEvilGenius.pdb
+I:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.csprojResolveAssemblyReference.cache
+I:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.frmGenius.resources
+I:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.Properties.Resources.resources
+I:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\ProjetoEvilGenius\ProjetoEvilGenius\obj\Debug\ProjetoEvilGenius.csproj.GenerateResource.Cache

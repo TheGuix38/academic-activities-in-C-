@@ -1,0 +1,30 @@
+C:\Users\Etec\source\repos\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\bin\Debug\ProjetoValidaCPFeCNPJ.exe.config
+C:\Users\Etec\source\repos\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\bin\Debug\ProjetoValidaCPFeCNPJ.exe
+C:\Users\Etec\source\repos\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\bin\Debug\ProjetoValidaCPFeCNPJ.pdb
+C:\Users\Etec\source\repos\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.csprojResolveAssemblyReference.cache
+C:\Users\Etec\source\repos\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.Form1.resources
+C:\Users\Etec\source\repos\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.Properties.Resources.resources
+C:\Users\Etec\source\repos\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.csproj.GenerateResource.cache
+C:\Users\Etec\source\repos\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.csproj.CoreCompileInputs.cache
+C:\Users\Etec\source\repos\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.exe
+C:\Users\Etec\source\repos\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.pdb
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\Forms\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\bin\Debug\ProjetoValidaCPFeCNPJ.exe.config
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\Forms\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\bin\Debug\ProjetoValidaCPFeCNPJ.exe
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\Forms\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\bin\Debug\ProjetoValidaCPFeCNPJ.pdb
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\Forms\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.csprojAssemblyReference.cache
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\Forms\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.Form1.resources
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\Forms\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.Properties.Resources.resources
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\Forms\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.csproj.GenerateResource.cache
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\Forms\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.csproj.CoreCompileInputs.cache
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\Forms\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.exe
+D:\ETEC\Segundo Módulo\Desenvolvimento de Software - DW\Visual Studio\Forms\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.pdb
+C:\Users\Etec\Desktop\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\bin\Debug\ProjetoValidaCPFeCNPJ.exe.config
+C:\Users\Etec\Desktop\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\bin\Debug\ProjetoValidaCPFeCNPJ.exe
+C:\Users\Etec\Desktop\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.csprojResolveAssemblyReference.cache
+C:\Users\Etec\Desktop\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.Form1.resources
+C:\Users\Etec\Desktop\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.Properties.Resources.resources
+C:\Users\Etec\Desktop\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.csproj.GenerateResource.cache
+C:\Users\Etec\Desktop\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.csproj.CoreCompileInputs.cache
+C:\Users\Etec\Desktop\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.exe
+C:\Users\Etec\Desktop\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\obj\Debug\ProjetoValidaCPFeCNPJ.pdb
+C:\Users\Etec\Desktop\ProjetoValidaCPFeCNPJ\ProjetoValidaCPFeCNPJ\bin\Debug\ProjetoValidaCPFeCNPJ.pdb

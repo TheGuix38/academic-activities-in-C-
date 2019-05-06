@@ -21,17 +21,17 @@ namespace ProjetoDeliveryAdm.DAL
                 con = new SqlConnection();
 
                 //configurar objeto de conexão
-                con.ConnectionString = @"Data Source = DESKTOP-QBGVP1J\SQLEXPRESS;
+                con.ConnectionString = @"Data Source = (local);
                                  Initial Catalog = bd_tcc;
                              Integrated Security = true"; //@ permite string com varias linhas
                                                           //Data Source = Nome do servidor
                                                           //Initial Catalog = Nome do Banco de Dados
                                                           //Integrated Security = Se for a Autenticação do Windows colocar "true"
-                                                          //'DESKTOP-QBGVP1J\SQLEXPRESS' to connect in TheGuix house or (local)
-        }
 
-        //Método de ação para conectar
-        public SqlConnection Conectar()
+            }
+
+            //Método de ação para conectar
+            public SqlConnection Conectar()
             {
                 if (con.State == ConnectionState.Closed)
                 {

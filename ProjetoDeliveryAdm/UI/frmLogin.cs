@@ -28,9 +28,6 @@ namespace ProjetoDeliveryAdm
                 if (controle.tem)
                 {
                     MessageBox.Show("Logado com sucesso", "Entrando", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    UI.frmMenuAdm frm = new UI.frmMenuAdm();
-                    frm.ShowDialog();
-                    frm.Dispose();
                 }
                 else
                 {
@@ -51,7 +48,7 @@ namespace ProjetoDeliveryAdm
 
         private void BtnCadatreseAdm_Click(object sender, EventArgs e)
         {
-            UI.frmCadastroAdm frm = new UI.frmCadastroAdm();
+            UI.CadastroAdm frm = new UI.CadastroAdm();
             frm.ShowDialog();
             frm.Dispose();
         }

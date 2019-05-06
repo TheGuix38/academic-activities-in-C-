@@ -52,15 +52,3 @@ C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho 
 C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csproj.CoreCompileInputs.cache
 C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.exe
 C:\Users\casa\Desktop\TheGuix\ETEC\Terceiro Módulo\Desenvolvimento do Trabalho de Conclusão de Curso\Visual Studio\ProjetoDeliveryAdm.v3\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.pdb
-C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.exe.config
-C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.exe
-C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\bin\Debug\ProjetoDeliveryAdm.pdb
-C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csprojAssemblyReference.cache
-C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.UI.frmCadastroAdm.resources
-C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.frmLogin.resources
-C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.Properties.Resources.resources
-C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csproj.GenerateResource.cache
-C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.csproj.CoreCompileInputs.cache
-C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.exe
-C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.pdb
-C:\Users\casa\Desktop\ProjetoDeliveryAdm.v4\ProjetoDeliveryAdm\obj\Debug\ProjetoDeliveryAdm.UI.frmMenuAdm.resources

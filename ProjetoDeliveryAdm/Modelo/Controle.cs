@@ -23,15 +23,8 @@ namespace ProjetoDeliveryAdm.Modelo
             }
             return tem;
         }
-
-        public String cadastrar(String admNome, String admLogin, String admSenha, String confSenha, String admEmail, String admCpf, String admEndereco, String admEstado, String admCidade, String admBairro, String admCep, String admTelefone, String admCelular)
+        public String cadastrar(String email, String senha, String confSenha)
         {
-            LoginDAL loginDAL = new LoginDAL();
-            this.mensagem = loginDAL.cadastrar(admNome, admLogin, admSenha, confSenha, admEmail, admCpf, admEndereco, admEstado, admCidade, admBairro, admCep, admTelefone, admCelular);
-            if (loginDAL.tem)//a msg que vai vir é de sucesso
-            {
-                this.tem = true;
-            }
             return mensagem;
         }
     }
